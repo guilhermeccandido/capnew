@@ -1,0 +1,13 @@
+# Repo é só a landing page; material de marketing fica local
+carrosseis/
+conteudo/
+scripts/
+imagens/
+*.jpeg
+*.jpg
+!landing/*.jpeg
+!landing/*.jpg
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
